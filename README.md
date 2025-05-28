@@ -1,5 +1,5 @@
 # CS-journey
 
-Currently I have zero knowledge about IT or CS or Cybersecurity. This repo will serve as a journal for my journey. Will be continuously updated as I learn.
+This repo will serve as a journal to document my journey of learning about Cyber Security from zero. Will be updated as I learn.
 
 
