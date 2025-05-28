@@ -9,3 +9,7 @@ I did my first room and I just have to say, my mind has been opened! I remember 
 Next I dipped my toes a bit into defensive security. Essentially the exercise went like this: unauthorized user was detected through the SIEM, their IP was from China and they had successfully logged in. My job was to notify my hypothetical Security Operations Center Team Lead of the issue, and they gave me permission to block the hypothetical IP using the firewall block list. Super interesting stuff and would love to learn more fundamentals in regards to defensive security/ blue team.
 
 This is all super lengthy and boring to read so I'll try to keep things concise next time I write in this repo. I may not come here every time I learn something but we'll see where things go I guess.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> (5/29/25) Day 2: TryHackMe
