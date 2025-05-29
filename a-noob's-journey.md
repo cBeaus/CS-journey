@@ -15,3 +15,11 @@ This is all super lengthy and boring to read so I'll try to keep things concise 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > (5/29/25) Day 2: TryHackMe
+
+Currently doing more rooms! Still on the first section (room 3 now) and it's pretty much just talking about careers. From what I gather; Security Analysts = Defense, and Security Engineers = Offense. Security Analysts detect the problem and Security Engineers fix it by implementing solutions, and putting systems in place. At least that's the notion I'm picking up on. Incident Responders seem to be super cool (in my opinion). Essentially they're responsible for responding to security breaches as they unfold! I'm kind of disappointed there's not more here about Digital Forensics as that's what I'm admittedly the most interested in but they're pretty much responsibel for gathering, and analyzing evidence to solve a crime. Malware Analysts seem cool too! The job is self explanatory haha. Penetration Testers seem cool too, as they try to figure out security vulnerabilities.
+
+Moving on I did more rooms and learned some more about IPs, MAC Addresses, what Pings are, and some more lessons in between but this is all super cool. I already had a general notion of what these concepts were but it's great diving a bit deeper into them and learning fundamentally, and generally what they are. Anyways I think this is all I'm gonna write for today, I just wanna focus on learning now.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>
